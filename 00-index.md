@@ -31,7 +31,8 @@
 ## Raw URL 模板（我会在使用时替换为自己的仓库地址）
 
 ```
-https://raw.githubusercontent.com/<用户名>/<仓库名>/main/persona/<文件名>.md
+https://raw.githubusercontent.com/jackdy08/my-ai-persona/main/00-index.md
+https://github.com/jackdy08/my-ai-persona/blob/main/00-index.md
 ```
 
 例如本文件：
