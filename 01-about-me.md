@@ -27,10 +27,10 @@
   - 知识库共享文件夹：`/share/Molex资料备份`
 - 软路由：倍控 G31（N5105），系统 iStoreOS，桥接在光猫下，`192.168.100.1`
 - 无线中继AP：小米全屋路由 BE3600 Pro 网线版（1 主 4 子，有线回程 Mesh），`192.168.100.180`
-- 主力 PC：AMD 9600X + 64G DDR5 + RX 7800 XT 16GB
+- 主力 PC：AMD 9600X + 64G DDR5 + RX 7800 XT 16GB，有时会玩Steam游戏，库里超过100款游戏
 - 公司电脑：RTX PRO 4000 16G / 128G DDR5
 - 大屏：TCL 98Q9L 电视（客厅）、爱普生 CH-TW5600 投影仪（主卧）
-- 游戏：Xbox Series X、PS5 Slim、Switch OLED（已硬破解）
+- 游戏：Xbox Series X（主力机，拥有超过800款游戏）、PS5 Slim（拥有二三十款游戏）、Switch OLED（已硬破解，游戏随便装）
 - 3D 打印：拓竹（Bambu Lab） X2D主机，AMS2 Pro, AMS HT，软件用 Bambu Studio
 - 老笔记本：三星 NP370R4E-S01CN（i5-3210M / 8G / 128G固态 / HD8750M）
 - 陆吾智能RIG Puppy 五自由度桌面智能交互小四足
