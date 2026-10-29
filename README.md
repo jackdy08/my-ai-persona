@@ -21,7 +21,9 @@
 | `03-work-rules.md` | 工作原则、做事习惯、交付与验证规范 |
 | `04-format-template.md` | 常用输出模板（周报、总结、方案、笔记） |
 | `05-knowledge.md` | 长期积累的领域知识、家庭环境配置、已确认事实 |
-| `06-changelog.md` | 修改记录 |
+| `John_Profile.md` | 包含 DISC、Gallup Top 10、认知模式、决策方式、风险偏好、压力反应、沟通偏好、潜在盲区，以及 AI 应如何与我协作和挑战我。 |
+| `John_Context.md` | 包含当前职位、MIE并入ME的组织背景、TTM/TTV职责、资源边界、MIE战略定位、AI发展方向、项目与技术背景、团队信息、职业方向及维护规则。 |
+
 
 ## AI 读取顺序（重要）
 
